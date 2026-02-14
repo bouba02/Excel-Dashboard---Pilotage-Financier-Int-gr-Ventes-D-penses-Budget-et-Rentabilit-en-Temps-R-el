@@ -1,0 +1,2 @@
+# Excel-Dashboard---Pilotage-Financier-Int-gr-Ventes-D-penses-Budget-et-Rentabilit-en-Temps-R-el
+Un système financier complet qui centralise ventes, dépenses et budgets en un seul endroit.  Les décideurs ont une visibilité immédiate sur la santé financière de leur entreprise avec des  alertes automatiques sur les dérives. Plus besoin d'attendre des jours pour la clôture mensuelle :  les chiffres sont à jour en temps réel.
